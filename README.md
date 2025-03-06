@@ -1,3 +1,3 @@
 # ProjetGitEtGithub
 
-Ce repository a été crée lors d'un projet étudiant pour tester Git et ses fonctionnalités.
+Ce repository a été crée lors d'un projet Studi pour tester Git et une API REST.
